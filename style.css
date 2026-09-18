@@ -1,6 +1,6 @@
 /* Reset and Global Styles */
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; line-family: 1.6; background-color: #f8f9fa; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; line-head: 1.6; background-color: #f8f9fa; }
         
         /* Navigation Bar */
         header { background: #1a252f; padding: 20px 10%; display: flex; justify-content: space-between; align-items: center; color: white; }
@@ -28,7 +28,7 @@
         .grid { display: flex; gap: 30px; justify-content: center; flex-wrap: wrap; }
         .card { background: white; padding: 30px; border-radius: 8px; width: 300px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: 0.3s; }
         .card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
-        .card h3 { color: #1a252f; margin-bottom: 15px;{ 
+        .card h3 { color: #1a252f; margin-bottom: 15px;} 
         
         /* Footer */
         footer { background: #1a252f; color: #bdc3c7; text-align: center; padding: 20px; font-size: 14px; margin-top: 40px; }
