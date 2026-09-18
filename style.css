@@ -10,8 +10,8 @@
 
         /* Hero Section with Live Background Image */
 .hero { 
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
-                url('https://unsplash.com') no-repeat center center/cover;
+    background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), 
+                url('https://images.unsplash.com/photo-1671970922029-0430d2ae122c?auto=format&fit=crop&w=1600&q=80') no-repeat center center/cover;
     height: 500px; 
     display: flex; 
     flex-direction: column; 
